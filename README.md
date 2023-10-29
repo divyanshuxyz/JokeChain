@@ -20,7 +20,7 @@ Clone the Repository: Start by cloning the JokeChain GitHub repository to your l
 
 bash
 Copy code
-git clone https://github.com/yourusername/JokeChain.git
+git clone https://github.com/divyanshuxyz/JokeChain.git
 cd JokeChain
 Install Dependencies: Ensure that you have the necessary dependencies installed, including Python and the required packages. You can use a virtual environment to isolate the dependencies if needed.
 
